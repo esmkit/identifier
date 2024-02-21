@@ -1,2 +1,2 @@
-# @esmkit/boilerplate
+# @esmkit/identifier
 
